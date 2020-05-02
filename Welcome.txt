@@ -1,1 +1,2 @@
 Welcome to Devops world
+This is for fetch command
